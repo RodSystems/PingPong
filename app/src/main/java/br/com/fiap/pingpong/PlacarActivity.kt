@@ -21,7 +21,7 @@ class PlacarActivity : AppCompatActivity() {
 
             tvScorePlayer1.text = scorePlaye1.toString()
             tvScorePlayer2.text = scorePlaye2.toString()
-            
+
         }
 
 
