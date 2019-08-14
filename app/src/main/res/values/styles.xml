@@ -15,4 +15,22 @@
         <item name="android:windowFullscreen">true</item>
     </style>
 
+    <style name="Divider" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/colorDivisor</item>
+        <item name="android:layout_height">1dp</item>
+    </style>
+
+    <style name="homeEditText">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/colorDivisor</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="custom_button">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@drawable/custon_button</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
 </resources>
